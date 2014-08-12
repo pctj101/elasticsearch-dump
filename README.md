@@ -9,6 +9,8 @@ Tools for moving and saving indicies.
 
 [![Build Status](https://secure.travis-ci.org/taskrabbit/elasticsearch-dump.png?branch=master)](http://travis-ci.org/taskrabbit/elasticsearch-dump)
 
+[ ![Codeship Status for pctj101/elasticsearch-dump](https://www.codeship.io/projects/ad5167f0-0425-0132-4808-06cd9fe8c123/status)](https://www.codeship.io/projects/30592)
+
 ## Installing
 
 (local)
